@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Collection of my PhD stuff"
 ---
 
-I'm glad you are here. I plan to talk about ...
+No PhD is straight but we are not alone. 
